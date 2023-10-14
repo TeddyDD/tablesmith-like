@@ -1,4 +1,5 @@
 {
+  "name": "tablesmith-like",
   "id": "tablesmith-like",
   "title": "Tablesmith like Tables",
   "description": "Use Tablesmith-like tables in FoundryVTT and create complex nested tables",
