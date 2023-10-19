@@ -8,13 +8,10 @@
   "name": "Klaas Reineke"
   }
 ],
-  "minimumCoreVersion": "11.304",
-  "compatibleCoreVersion": "11.304",
   "compatibility": {
     "minimum": 11,
     "verified": "11.304"
   },
-  "scripts": [],
   "esmodules": ["module/tablesmith-like.js"],
   "styles": ["styles/tablesmith-like.css"],
   "packs": [
@@ -49,9 +46,8 @@
       "path": "lang/en.json"
     }
   ],
-  "socket": false,
   "url": "https://github.com/klaas1979/tablesmith-like",
-  "manifest": "https://raw.githubusercontent.com/klaas1979/tablesmith-like/main/src/module.json",
+  "manifest": "https://github.com/panarchist/tablesmith-like/edit/main/src/module.json",
   "download": "https://github.com/klaas1979/tablesmith-like/releases/download/v1.14.0/module.zip",
   "license": "https://github.com/klaas1979/tablesmith-like/blob/main/LICENSE.txt",
   "readme": "https://github.com/klaas1979/tablesmith-like/blob/main/README.md",
