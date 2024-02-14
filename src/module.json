@@ -4,16 +4,20 @@
   "description": "Use Tablesmith-like tables in FoundryVTT and create complex nested tables",
   "version": "1.14.0",
   "authors": [
-  {
-  "name": "Klaas Reineke"
-  }
-],
+    {
+      "name": "Klaas Reineke"
+    }
+  ],
   "compatibility": {
     "minimum": 11,
     "verified": "11.304"
   },
-  "esmodules": ["module/tablesmith-like.js"],
-  "styles": ["styles/tablesmith-like.css"],
+  "esmodules": [
+    "module/tablesmith-like.js"
+  ],
+  "styles": [
+    "styles/tablesmith-like.css"
+  ],
   "packs": [
     {
       "name": "tablesmith-like-macros",
@@ -46,13 +50,13 @@
       "path": "lang/en.json"
     }
   ],
-  "url": "https://github.com/klaas1979/tablesmith-like",
-  "manifest": "https://github.com/panarchist/tablesmith-like/edit/main/src/module.json",
-  "download": "https://github.com/klaas1979/tablesmith-like/releases/download/v1.14.0/module.zip",
-  "license": "https://github.com/klaas1979/tablesmith-like/blob/main/LICENSE.txt",
-  "readme": "https://github.com/klaas1979/tablesmith-like/blob/main/README.md",
-  "bugs": "https://github.com/klaas1979/tablesmith-like/issues",
-  "changelog": "https://github.com/klaas1979/tablesmith-like/blob/main/CHANGELOG.md",
+  "url": "https://github.com/teddydd/tablesmith-like",
+  "manifest": "https://github.com/teddydd/tablesmith-like/edit/main/src/module.json",
+  "download": "https://github.com/teddydd/tablesmith-like/releases/download/v1.14.0/module.zip",
+  "license": "https://github.com/teddydd/tablesmith-like/blob/main/LICENSE.txt",
+  "readme": "https://github.com/teddydd/tablesmith-like/blob/main/README.md",
+  "bugs": "https://github.com/teddydd/tablesmith-like/issues",
+  "changelog": "https://github.com/teddydd/tablesmith-like/blob/main/CHANGELOG.md",
   "relationships": {
     "systems": []
   },
