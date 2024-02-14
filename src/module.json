@@ -54,18 +54,7 @@
   "bugs": "https://github.com/klaas1979/tablesmith-like/issues",
   "changelog": "https://github.com/klaas1979/tablesmith-like/blob/main/CHANGELOG.md",
   "relationships": {
-    "systems": [
-      {
-        "id": "dnd5e",
-        "type": "system"
-         "compatibility": [
-          {
-            "minimum": "2.3.1",
-            "verified": "2.3.1"
-          }
-        ]
-      }
-    ]
+    "systems": []
   },
   "library": false
 }
